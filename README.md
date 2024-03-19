@@ -15,8 +15,10 @@
 
 ## Frases para a vida
 
-Desistir não e uma escolha!!
-Lembrese o fim pode ser para os tolos um GameOuver e para os sábios um novo Começo de uma linda jornada!
-A Resolução de problemas não está em saber resolvê-los e sim em o que vai aprender dele no fim de cada desafio!
+ Desistir não e uma escolha!!
+
+ Lembrese o fim pode ser para os tolos um GameOuver e para os sábios um novo Começo de uma linda jornada!
+
+ A Resolução de problemas não está em saber resolvê-los e sim em o que vai aprender dele no fim de cada desafio!
 
 
