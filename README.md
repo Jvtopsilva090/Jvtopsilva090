@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/main/assets/banner.png" alt="Banner João Vitor">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jvtopsilva090&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+</p>
+
 ### 🗿 Salve! Sou o João Vitor 🗿 👋
 
 Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PUC Goiás** e estou iniciando minha jornada no universo da tecnologia.
@@ -5,7 +13,15 @@ Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PU
 Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de soluções inovadoras. Busco sempre aprender algo novo, explorar ferramentas e crescer junto com a comunidade de T.I.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jv_shelby_0901?igsh=MXBxdGo4aXR0ZWI0aQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://seuportfolio.com)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090\&show_icons=true\&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvtopsilva090\&layout=compact\&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvtopsilva090\&theme=onedark\&date_format=M%20j%5B%2C%20Y%5D)
+![Metrics](https://github.com/Jvtopsilva090/Jvtopsilva090/blob/main/github-metrics.svg)
+
+![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -37,10 +53,32 @@ Sou apaixonado por desenvolvimento de software, resolução de problemas e cria�
 
 ---
 
+## 📌 Projetos em destaque
+
+* [🧮 CalculadoraCPL](https://github.com/Jvtopsilva090/CalculadoraCPL) – Calculadora com testes unitários JUnit e interface simples.
+* [📅 ProjetoInovador](https://github.com/Jvtopsilva090/ProjetoInovador) – App de rotinas com integração Google, calendário e painel do admin.
+* [📊 Backup Monitor](https://github.com/Jvtopsilva090/BackupMonitor) – Script bash com notificação por e-mail usando Postfix + Timeshift.
+
+---
+
 ## ✨ Em constante evolução...
 
 Atualmente, estou me aprofundando em **backend com Java**, **desenvolvimento mobile com Flutter** e **automação com Bash/Linux**.
 Meu objetivo é sempre **melhorar**, contribuir com a comunidade e **inovar** em cada projeto!
+
+---
+
+### 🌍 Bio multilíngue (EN/PT-BR)
+
+<details>
+<summary>🇧🇷 Português</summary>
+Olá! Sou um desenvolvedor em início de carreira focado em backend e automações Linux. Gosto de aprender e explorar novas tecnologias. 💻
+</details>
+
+<details>
+<summary>🇺🇸 English</summary>
+Hello! I'm a junior developer focused on backend and Linux automation. I enjoy learning and exploring new technologies. 💻
+</details>
 
 ---
 
