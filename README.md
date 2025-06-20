@@ -1,8 +1,10 @@
-### 🗿 Salve Sou o João Vitor 🗿 👋
+### 🗿 Salve! Sou o João Vitor 🗿 👋
+
+Sou um jovem de 21 anos que está começando agora no mercado de T.I. estou prestes a finalizar o meu curso de ADS na PUC Goiás.
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jv_shelby_0901?igsh=MXBxdGo4aXR0ZWI0aQ==)
-
 ![Jvtopsilva090 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia
