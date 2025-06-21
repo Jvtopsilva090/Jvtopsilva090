@@ -12,8 +12,11 @@ Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PU
 
 Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de soluções inovadoras. Busco sempre aprender algo novo, explorar ferramentas e crescer junto com a comunidade de T.I.
 
+### ⚡ Redes Sociais e Profissionais ⚡
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jv_shelby_0901?igsh=MXBxdGo4aXR0ZWI0aQ==)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://jvtopsilva090.github.io/)
 
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090\&show_icons=true\&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvtopsilva090\&layout=compact\&theme=onedark)
