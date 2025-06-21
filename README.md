@@ -97,3 +97,6 @@ Fique à vontade para visitar meus repositórios, trocar ideias ou colaborar em 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvtopsilva090\&theme=onedark\&date_format=M%20j%5B%2C%20Y%5D)
 <img src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/main/github-metrics.svg" alt="GitHub Metrics" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jvtopsilva090&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações de perfil" />
+</p>
