@@ -57,7 +57,7 @@ Sou apaixonado por desenvolvimento de software, resolução de problemas e cria�
 ## 📌 Projetos em destaque
 
 * [🧮 CalculadoraCPL](https://github.com/Jvtopsilva090/CalculadoraCPL) – Calculadora com testes unitários JUnit5 e interface simples.
-* [📊 CRUD](ttps://github.com/Jvtopsilva090/ProjetoCRUDFACUL") – App de Criar, excluir, e editar um usuário e adiciona no banco de dados local, feito em drat e flutter.
+* [📊 ProjetoCRUDFACUL](ttps://github.com/Jvtopsilva090/ProjetoCRUDFACUL") – App de Criar, excluir, e editar um usuário e adiciona no banco de dados local, feito em drat e flutter.
 
 ---
 
@@ -87,9 +87,12 @@ Hello! I'm a junior developer focused on backend and Linux automation. I enjoy l
 
 ---
 
+
 ### 🤝 Conecte-se comigo!
 
 Fique à vontade para visitar meus repositórios, trocar ideias ou colaborar em projetos open-source. Estamos juntos nessa jornada! 🚀
+
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090\&show_icons=true\&theme=onedark)
