@@ -19,14 +19,10 @@ Sou apaixonado por desenvolvimento de software, resolução de problemas e cria�
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://jvtopsilva090.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-da-silva-5593ab224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090\&show_icons=true\&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvtopsilva090\&layout=compact\&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvtopsilva090\&theme=onedark\&date_format=M%20j%5B%2C%20Y%5D)
-<img src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/main/github-metrics.svg" alt="GitHub Metrics" />
 ![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ---
 
@@ -94,3 +90,10 @@ Hello! I'm a junior developer focused on backend and Linux automation. I enjoy l
 ### 🤝 Conecte-se comigo!
 
 Fique à vontade para visitar meus repositórios, trocar ideias ou colaborar em projetos open-source. Estamos juntos nessa jornada! 🚀
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvtopsilva090\&show_icons=true\&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvtopsilva090\&layout=compact\&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvtopsilva090\&theme=onedark\&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/main/github-metrics.svg" alt="GitHub Metrics" />
+
