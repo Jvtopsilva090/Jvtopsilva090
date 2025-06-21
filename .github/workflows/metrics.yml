@@ -7,10 +7,7 @@ on:
 
 permissions:
   contents: read
-  actions: read
-  issues: read
-  pull-requests: read
-  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
