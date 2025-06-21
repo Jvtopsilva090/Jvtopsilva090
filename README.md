@@ -13,8 +13,12 @@ Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PU
 Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de soluções inovadoras. Busco sempre aprender algo novo, explorar ferramentas e crescer junto com a comunidade de T.I.
 
 ### ⚡ Redes Sociais e Profissionais ⚡
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/jv_shelby_0901?igsh=MXBxdGo4aXR0ZWI0aQ==)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://jvtopsilva090.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-da-silva-5593ab224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
@@ -56,9 +60,8 @@ Sou apaixonado por desenvolvimento de software, resolução de problemas e cria�
 
 ## 📌 Projetos em destaque
 
-* [🧮 CalculadoraCPL](https://github.com/Jvtopsilva090/CalculadoraCPL) – Calculadora com testes unitários JUnit e interface simples.
-* [📅 ProjetoInovador](https://github.com/Jvtopsilva090/ProjetoInovador) – App de rotinas com integração Google, calendário e painel do admin.
-* [📊 Backup Monitor](https://github.com/Jvtopsilva090/BackupMonitor) – Script bash com notificação por e-mail usando Postfix + Timeshift.
+* [🧮 CalculadoraCPL](https://github.com/Jvtopsilva090/CalculadoraCPL) – Calculadora com testes unitários JUnit5 e interface simples.
+* [📊 CRUD em Dart](ttps://github.com/Jvtopsilva090/ProjetoCRUDFACUL") – App de Criar, excluir, e editar um usuário e adiciona no banco de dados local, feito em drat e flutter.
 
 ---
 
@@ -79,6 +82,11 @@ Olá! Sou um desenvolvedor em início de carreira focado em backend e automaçõ
 <details>
 <summary>🇺🇸 English</summary>
 Hello! I'm a junior developer focused on backend and Linux automation. I enjoy learning and exploring new technologies. 💻
+</details>
+
+<details>
+<summary>🇪🇦 Espanhol</summary>
+¡Hola! Soy un desarrollador en sus inicios, especializado en backend y automatización de Linux. Disfruto aprendiendo y explorando nuevas tecnologías.
 </details>
 
 ---
