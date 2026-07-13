@@ -8,7 +8,7 @@
 
 ### 🗿 Salve! Sou o João Vitor 🗿 👋
 
-Tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PUC Goiás** e estou iniciando minha jornada no universo da tecnologia.
+Tenho 22 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela **PUC Goiás** e estou iniciando minha jornada no universo da tecnologia.
 
 Sou apaixonado por desenvolvimento de software, resolução de problemas e criação de soluções inovadoras. Busco sempre aprender algo novo, explorar ferramentas e crescer junto com a comunidade de T.I.
 
