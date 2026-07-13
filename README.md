@@ -250,18 +250,16 @@ Meu objetivo é evoluir constantemente como desenvolvedor e construir aplicaçõ
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Jvtopsilva090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6"
-    alt="Troféus do GitHub"
+    src="https://github-profile-trophy.vercel.app/?username=Jvtopsilva090&theme=tokyonight&no-frame=true&row=1&column=7"
   />
 </p>
-
 ---
 
 ## 🐍 Contribuições
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Jvtopsilva090/Jvtopsilva090/output/github-contribution-grid-snake-purple.svg"
     alt="Animação das contribuições do GitHub"
   />
 </p>
