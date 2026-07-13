@@ -17,7 +17,6 @@ jobs:
   generate:
     name: Gerar cobrinha
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
 
     steps:
@@ -25,16 +24,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jvtopsilva090
-
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-purple.svg?color_snake=%238B5CF6&color_dots=%23161B22,%23282A3A,%234B3F72,%237C3AED,%23A78BFA
 
       - name: Publicar na branch output
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
